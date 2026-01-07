@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/power_up.wav-8349ffe570559470036ebff4b80f7fc0.sample"
+type="AudioStreamWAV"
+uid="uid://ib41083ggprd"
+path="res://.godot/imported/power_up.wav-8349ffe570559470036ebff4b80f7fc0.sample"
 
 [deps]
 
 source_file="res://assets/sounds/power_up.wav"
-dest_files=[ "res://.import/power_up.wav-8349ffe570559470036ebff4b80f7fc0.sample" ]
+dest_files=["res://.godot/imported/power_up.wav-8349ffe570559470036ebff4b80f7fc0.sample"]
 
 [params]
 
